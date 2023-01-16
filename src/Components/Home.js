@@ -4,8 +4,6 @@ import { feedbackData } from "../feedbackData";
 import { Rate } from "antd";
 
 import cartImg from "../Images/cartImg.png";
-import progressShort from "../Images/progressShort.svg";
-import progressLarge from "../Images/progressLarge.svg";
 import randomPhoto from "../Images/randomPhoto.png";
 import check from "../Images/check.png";
 import yourTasksImg from "../Images/yourTasks.png";
@@ -89,7 +87,7 @@ const Home = () => {
   /*Following array used in useState are temporary.
     They will be added in MongoDB later, may be during backend.
     */
-
+/*
   const [teamMembers, setTeamMembers] = useState([
     {
       name: "Fred Marcos",
@@ -128,7 +126,7 @@ const Home = () => {
       status: "Pending",
     },
   ]);
-
+*/
   const handleLeftBtnClick1 = () => {
     let slider = document.getElementById("feedbackSlider1");
     slider.scrollLeft = slider.scrollLeft - 500;
