@@ -1,4 +1,4 @@
-# Page Link : https://digilabs-assessment-1.netlify.app/
+# Page Link : https://pepper-frontend-project.netlify.app/
 
 # Getting Started with Create React App
 
