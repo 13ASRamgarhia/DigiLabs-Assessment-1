@@ -4,6 +4,7 @@
 
 Pepper is a frontend development project which was designed using React and React UIs. The only purpose for this project was to enhance the skillset in frontend technologies including React, React UIs, and Tailwind CSS.\
 **CLICK ON TITLE TO MOVE TO THE APP**\
+**CONTACT:** Feel free to contact on LinkedIn in case of any queries - [LinkedIn profile](https://www.linkedin.com/in/13asr/)
 
 ### STEPS TO RUN THE APP
 
