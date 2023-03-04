@@ -1146,7 +1146,6 @@ const Home = () => {
             Made with <span className="text-checkColor2">&hearts;</span> by{" "}
             <span className="text-checkColor2">Amandeep Singh</span>
           </p>
-          <p className="text-sm HD:text-xl">for DigiLabs Assessment - 1</p>
         </div>
       </div>
     </div>
