@@ -1,14 +1,25 @@
-# Page Link : https://pepper-frontend-project.netlify.app/
+# [Pepper Landing Page](https://pepper-frontend-project.netlify.app/)
 
-# Getting Started with Create React App
+### Getting Started
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Pepper is a frontend development project which was designed using React and React UIs. The only purpose for this project was to enhance the skillset in frontend technologies including React, React UIs, and Tailwind CSS.\
+**CLICK ON TITLE TO MOVE TO THE APP**\
 
-## Available Scripts
+### STEPS TO RUN THE APP
+
+Anyone can use the app by clicking the title (Pepper Landing Page) at the top of this documentary. If one wants to run the app for developement purpose, he can freely download the source code and start the development.
+
+PRE-REQUISITE: VS Code, Node.js and proficiency in frontend technologies including React and Tailwind CSS.
+
+Note: If you recently installed Node.js, I would recommend you to restart your pc.
+
+After downloading the app, open it in VS Code and type npm install in in-built cmd. This will install all necessary dependencies to run the app. Once all dependecies are installed, run start command npm start to run app in development mode.
+
+### Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+`npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -16,12 +27,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+`npm test`
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+`npm run build`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -31,7 +42,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+`npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
@@ -41,32 +52,8 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+### TECHNOLOGIES USED
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+> `React` (JS framework) is used for frontend developement
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+> `Tailwind CSS`, `Ant Design`, `Semantic UI`, and `Daisy UI` are used for styling the components and enhancing the designs.
